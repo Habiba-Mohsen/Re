@@ -246,14 +246,14 @@ class RealtimeFilterDesigner(QMainWindow):
         if self.ui.radioButton_2.isChecked():
             
             pos = self.ui.Touchpad.getViewBox().mapSceneToView(pos)
-            signal_value = (pos.y())
+            signal_value =pos.y()
             self.counter_max += 1
             self.x_data.append(signal_value)
 
             if len(self.new_filter.poles) > 0 and len(self.new_filter.zeros) > 0:
                 self.fltr_data = self.new_filter.apply_filter(self.x_data) # Filtered Signal
             else:
-                self.fltr_data = self.FilterDesigner.apply_filter([signal_value])
+                self.fltr_data = self.FilterDesigner.apply_filter(self.x_data)
 
             
             # Update signalItemInput and signalItemFiltered data
