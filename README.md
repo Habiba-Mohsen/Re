@@ -40,7 +40,8 @@ Users can visualize the filter's frequency response, apply it to a real-time sig
 
 Effortlessly navigate through your Filter Design with the magic of these shortcuts.
 
-## Preview
+## Screenshots
+![Filter Design Screenshot](https://github.com/Habiba-Mohsen/Realtime-Digital-Filter/blob/main/assets/Task6-1.png)
 
 ## Contributors
  <a href="https://github.com/Habiba-Mohsen">
