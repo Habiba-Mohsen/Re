@@ -44,10 +44,10 @@ Effortlessly navigate through your Filter Design with the magic of these shortcu
 
 ## Contributors
  <a href="https://github.com/Habiba-Mohsen">
-    <img src="https://github.com/Habiba-Mohsen.png" width="100px">
+    <img src="https://github.com/Habiba-Mohsen.png" width="100px" alt="Habiba Mohsen">
   </a>
   <a href="https://github.com/mohandemadx">
-    <img src="https://github.com/mohandemadx.png" width="100px">
+    <img src="https://github.com/mohandemadx.png" width="100px" alt="Mohand Emad">
   </a>
 
 ## Acknowledgments
