@@ -44,13 +44,6 @@ Effortlessly navigate through your Filter Design with the magic of these shortcu
 ![Filter Design Screenshot](https://github.com/Habiba-Mohsen/Realtime-Digital-Filter/blob/main/assets/Task6-1.png)
 ![Signal Display Screenshot](https://github.com/Habiba-Mohsen/Realtime-Digital-Filter/blob/main/assets/task6-2.png)
 
-## Contributors
- <a href="https://github.com/Habiba-Mohsen">
-    <img src="https://github.com/Habiba-Mohsen.png" width="100px" alt="Habiba Mohsen">
-  </a>
-  <a href="https://github.com/mohandemadx">
-    <img src="https://github.com/mohandemadx.png" width="100px" alt="Mohand Emad">
-  </a>
 
 ## Acknowledgments
 
